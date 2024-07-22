@@ -13,7 +13,7 @@ Officially it's published on https://rupeshdeshmukh.dev
 
 ## Licence
 ```
-   Copyright 2019 Shreyas Patil
+   Copyright 2019 Rupesh Kumar Deshmukh
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
